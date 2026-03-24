@@ -91,5 +91,3 @@ NOIZEUS, Librosa, scikit-learn, torchaudio, espeak-ng, matplotlib, seaborn
 ## Run it yourself
 
 The full experiment is self-contained in the notebook. Open it in Colab, switch to a T4 GPU runtime, and run all cells from top to bottom. It handles everything — downloading LibriSpeech, cloning the NOIZEUS corpus from GitHub, generating the accented and conversational domains, training, evaluation, probing, and all plots.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harie1316/Speech-Domain-Classifier/blob/main/notebooks/Speech-Domain-Classifier.ipynb)
